@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Vanessa 
-- 👀 I’m interested in becoming a Full Stack Web Developer. Best of both worlds.
-- 🌱 Currently attending Bryan Universtiry for Full Stack Web Dev.
+- 👀 I’m interested in becoming a Full Stack Web Developer.
+- 🌱 Currently attending Bryan Universtiry for Full Mern Stack
 - 📫 Feel free to browse around
 
 <!---
